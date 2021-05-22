@@ -1,7 +1,8 @@
 👋 Hi, I’m @antelius
 
-🏭 Head of Product Development at Pitch Technologies.
 👨‍💻 Working on products for building distributed simulations. 
+
+🏭 Head of Product Development at Pitch Technologies.
 
 <!---
 antelius/antelius is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
